@@ -1,0 +1,20 @@
+﻿# ===== C / C++ Build Artifacts =====
+*.exe
+*.out
+a.out
+*.o
+*.obj
+
+# ===== Build / Binary Directories =====
+/build/
+/bin/
+/dist/
+
+# ===== IDE / Editor Settings =====
+.vscode/
+.idea/
+*.swp
+
+# ===== OS-Specific Files =====
+.DS_Store
+Thumbs.db
