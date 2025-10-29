@@ -1,4 +1,6 @@
 //Write a Program to print sums of all subsets in an array.
+#include <stdio.h>
+
 void subset_sum(int arr[], int i, int j, int sum)
 {
     if (i > j) {
